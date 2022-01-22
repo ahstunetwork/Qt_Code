@@ -1,0 +1,62 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>database.js</file>
+        <file>Page_1_word.qml</file>
+        <file>Page_2_word_list.qml</file>
+        <file>Page_3_statistics.qml</file>
+        <file>Page_4_account.qml</file>
+        <file>exchange_info.js</file>
+        <file>Comp_drawer.qml</file>
+        <file>Comp_Icon_buttom.qml</file>
+        <file>New_window_test.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>account_tr.png</file>
+        <file>left_tr.png</file>
+        <file>mark_tr.png</file>
+        <file>mod_tr.png</file>
+        <file>search_tr.png</file>
+        <file>setting.ico</file>
+        <file>setting.png</file>
+        <file>statistics_tr.png</file>
+        <file>word_list_tr.png</file>
+        <file>word_tr.png</file>
+        <file>setting_tr.png</file>
+        <file>success_tr.png</file>
+        <file>launch_tr.png</file>
+        <file>home_tr.png</file>
+        <file>message_tr.png</file>
+        <file>note_tr.png</file>
+        <file>right_tr.png</file>
+        <file>edit.svg</file>
+        <file>output.svg</file>
+        <file>data.svg</file>
+        <file>home.svg</file>
+        <file>menu.svg</file>
+        <file>add_new.svg</file>
+        <file>message.svg</file>
+        <file>word.svg</file>
+        <file>search.svg</file>
+        <file>left.svg</file>
+        <file>mak.svg</file>
+        <file>setting.svg</file>
+        <file>bookmark.svg</file>
+        <file>navicate.svg</file>
+        <file>computer.svg</file>
+        <file>account.svg</file>
+        <file>tager_background.jpg</file>
+        <file>pic_1.jpg</file>
+        <file>tree.jpg</file>
+        <file>countryside.jpg</file>
+        <file>pic_2.jpg</file>
+        <file>pic_3_pc.jpg</file>
+        <file>pic_4_phone.jpg</file>
+        <file>tree_2_phone.jpeg</file>
+        <file>pic_5_phone.jpg</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>a88c4f5b498664c0552787c2028b57e5.sqlite</file>
+    </qresource>
+</RCC>
